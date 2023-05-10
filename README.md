@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Hello! I’m Nicholas.<br>🔭 I’m interested in Computer Programming and Web Development.<br>💞️ I’m looking to collaborate on Java and Web development projects.<br>🌱 I’m currently learning C and HTML/CSS.<br>⚡ Fun fact I like Digital/Multimedia Design and anything art related.
+💬 Hello! I’m Nicholas.<br>🔭 I’m interested in Computer Programming and Web Development.<br>💞️ I’m looking to collaborate on Java and Web development projects.<br>🌱 I’m currently learning HTML/CSS.<br>⚡ Fun fact I like Digital/Multimedia Design and anything art related.
 
 
 ## 🌐 Socials:
