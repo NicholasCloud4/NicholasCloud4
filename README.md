@@ -1,6 +1,8 @@
 <h1 align="center">Hi 🦁, I'm Nicholas</h1>
 <h3 align="center">A passionate developer</h3>
 
+<img align="right" alt="Coding" width="400" src="https://clintbird.com/images/posts/2017/gifs-2.gif">
+
 - 🔭 I’m currently working on **developing web applications**
 
 - 🌱 I’m currently learning **MERN Stack**
